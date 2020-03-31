@@ -9,4 +9,8 @@ Das File "backward_camera_prog.py" beinhaltet den Code zur Kommunikation mit ein
 
 
 
-Erstellt von 
+Erstellt von Dan_GitH und RoReinhold
+
+https://github.com/dan-GitH
+https://github.com/RoReinhold
+
